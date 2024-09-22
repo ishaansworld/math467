@@ -1,5 +1,5 @@
 # math467
-Theory and Computational Methods for Optimization
+Course: Theory and Computational Methods for Optimization
 
 ## Project 1
 
